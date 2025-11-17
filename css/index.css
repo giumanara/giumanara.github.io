@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #030000;
+    background: linear-gradient(90deg,rgb(3, 0, 10) 0%, rgb(12, 11, 21) 50%, rgb(3, 0, 10)  100%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    margin-left: 20%;
+    margin-top: 10%;
+}
+.content h1{
+    font-size: 40px;
+    margin-left: 350px;
+}
+.perfil-content a{
+    text-decoration: none;
+    color: white;
+    
+}
+.content img{
+    width: 150px;
+    border-radius: 5px;
+    margin-right: 390px;
+}
+.perfil-content{
+    text-align: center;
+}
+.perfil-content h2{
+margin-right: 380px;
+}
